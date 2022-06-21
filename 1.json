@@ -1,0 +1,46 @@
+[{
+  "title": "Book1",
+  "ISBN": "ISBN_EXAMPLE-1",
+  "year": 2004,
+  "number": "",
+  "publisher": "publisher1",  
+  "literate": "Book",
+  "author": "Ulisses Lewis"
+},
+{
+  "title": "Journal1",
+  "ISBN": "ISBN_EXAMPLE-2",
+  "year": 2006,
+  "number": "1",
+  "publisher": "publisher2",  
+  "literate": "Journal",
+  "author": "Pembroke Martinez"
+},
+{
+  "title": "Book2",
+  "ISBN": "ISBN_EXAMPLE-3",
+  "year": 2015,
+  "number": "",
+  "publisher": "publisher1",  
+  "literate": "Book",
+  "author": "Ulisses Lewis"
+},
+{
+  "title": "Book3",
+  "ISBN": "ISBN_EXAMPLE-4",
+  "year": 2014,
+  "number": "",
+  "publisher": "publisher1",  
+  "literate": "Book",
+  "author": "Quentrell Nelson"
+},
+{
+  "title": "Newspaper1",
+  "ISBN": "ISBN_EXAMPLE-5",
+  "year": 2008,
+  "number": "1",
+  "publisher": "publisher3",  
+  "literate": "Newspaper",
+  "author": "Nestor Walker"
+}
+]
